@@ -1,0 +1,6 @@
+{
+  "name": "Project Prayoga",
+  "description": "Silent communication wearable app converting intentional silent articulation into spoken voice with ESP32 headset integration, local ML recognition, and voice dataset management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
